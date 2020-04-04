@@ -49,20 +49,4 @@ public class HomeFragment extends Fragment {
         recyclerView.setAdapter(adapter);
         return view;
     }
-
-//    private void getImages() {
-//        Log.d(TAG, "initImageBitmaps: preparing bitmaps.");
-//
-//        mImageUrls.add("https://www.nps.gov/grca/planyourvisit/images/hav-falls8368-275x_2.jpg");
-//        mNames.add("Havasu Falls");
-//
-//        mImageUrls.add("https://media-cdn.tripadvisor.com/media/photo-w/10/f8/b5/71/more-modern-buildings.jpg");
-//        mNames.add("Trondheim");
-//
-//        mImageUrls.add("https://media-cdn.tripadvisor.com/media/photo-w/0d/eb/27/ae/photo4jpg.jpg");
-//        mNames.add("Sendai");
-//
-//        mImageUrls.add("https://media-cdn.tripadvisor.com/media/photo-m/1280/01/25/22/c8/the-dart-valley-near.jpg");
-//        mNames.add("Queenstown");
-//    }
 }
